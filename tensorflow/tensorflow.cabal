@@ -57,6 +57,7 @@ library
                 , transformers
                 , vector
                 , vector-split
+  include-dirs:        third_party
   extra-libraries:     tensorflow
   default-language:    Haskell2010
   include-dirs: .
